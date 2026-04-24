@@ -1,0 +1,16 @@
+# Temporary files
+*.swp
+*.tmp
+
+# IDE files
+.vscode/
+.idea/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Secrets (never commit!)
+.env
+*.key
+*.pem
